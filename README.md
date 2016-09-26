@@ -43,17 +43,17 @@ Il Workflow relativo a questa tipologia di localizzazione è determinato dall'ut
 Di base abbiamo due tipologie di utenza, il **Traduttore** e il **Revisore**.
 
 * **Traduttore**
-- Esegue l'accesso
-- Va nelle sue impostazioni (icona ingranaggio sotto l'icona in alto a destra) è seleziona la modalità "Make suggestion"
-- Va al progetto
-- Dal filtro seleziona "Missing", così da poter accedere direttamente alle stringhe senza traduzione
-- Traduce e conferma con il pulsante blu "Suggest". La stringa apparirà ora sotto il tag History, con il nome del traduttore e l'ora di immissione.
+  - Esegue l'accesso
+  - Va nelle sue impostazioni (icona ingranaggio sotto l'icona in alto a destra) è seleziona la modalità "Make suggestion"
+  - Va al progetto
+  - Dal filtro seleziona "Missing", così da poter accedere direttamente alle stringhe senza traduzione
+  - Traduce e conferma con il pulsante blu "Suggest". La stringa apparirà ora sotto il tag History, con il nome del traduttore e l'ora di immissione.
 
 * **Revisore**
-- Esegue l'accesso
-- Va al progetto
-- Dal filtro seleziona "Suggested", così da ritrovarsi le stringhe che il traduttore gli ha lasciato da revisionare
-- Se la traduzione è buona, preme il pulsante "Save", confermando la stringa come "Translated". Se ha in mente una soluzione alternativa invece, scrive la sua versione e preme il pulsante Suggest. La sua versione finisce accanto a quella del traduttore nel tab History.
+  - Esegue l'accesso
+  - Va al progetto
+  - Dal filtro seleziona "Suggested", così da ritrovarsi le stringhe che il traduttore gli ha lasciato da revisionare
+  - Se la traduzione è buona, preme il pulsante "Save", confermando la stringa come "Translated". Se ha in mente una soluzione alternativa invece, scrive la sua versione e preme il pulsante Suggest. La sua versione finisce accanto a quella del traduttore nel tab History.
 
 Una volta che queste due operazioni sono state eseguite il Traduttore seleziona, nel progetto a cui stava lavorando, l'opzione del filtro "Suggested" e confronta tutti i cambiamenti fatti dal revisore con la sua versione.
 Se è concorde con la correzione del revisore da l'OK alla correzione, altrimenti, propone un'altra versione in suggerimento.
