@@ -4,7 +4,7 @@ Breve guida per la Localizzazione nella Community Italiana di Mozilla.
 
 ## Introduzione ##
 
-La presente guida intende offrire una breve presentazione di come il Team di Localizzazione della community Mozilla Italia realizza le proprie attività, offrire un breve supporto e una introduzione alle pratiche applicate dal teamstesso. Chiunque volesse collaborare alla realizzazione di questa guida offrendo la propria esperienza e abilità è invitato a partecipare.
+La presente guida intende offrire una breve presentazione di come il Team di Localizzazione della community Mozilla Italia realizza le proprie attività, offrire un breve supporto e una introduzione alle pratiche applicate dal team stesso. Chiunque volesse collaborare alla realizzazione di questa guida offrendo la propria esperienza e abilità è invitato a partecipare.
 
 ## Traduzione o Localizzazione? ##
 
