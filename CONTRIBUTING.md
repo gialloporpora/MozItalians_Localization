@@ -36,7 +36,7 @@ maggiori dettagli verranno pubblicati presto!
 Hai bisogno di aiuto? contatta: Edoardo Viola - Indirizzo Email: edovio@gmail.com
 
 ### Come richiedere cambiamenti - "enchancement"
-Tu puoi creare un nuovo issues come "enchancement" ma la priorità non sarà la stessa di altri issues.
+Tu puoi creare un nuovo issues come "Richiesta Miglioramento" ma la priorità non sarà la stessa di altri issues.
 
 ### Who is involved
 maggiori dettagli verranno pubblicati presto!
