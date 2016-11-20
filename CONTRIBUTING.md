@@ -1,7 +1,7 @@
 +1::tada: Prima di qualunque altra cosa, Grazie per il tuo contributo!!! :tada::+1:
 
 ## Project Vision
-Noi lavoriamo con i membri che fanno parte di community Mozilla Italia per creare una guida sulla Localizzazione in Italiano  
+Noi lavoriamo con i membri della community Mozilla Italia per creare una guida sulla Localizzazione in Italiano  
 che aiuti ad incrementare la partecipazione e la formazione dei nuovi localizzatori italiani.
 
 ## Cosa hai necessità di sapere prima di iniziare?
